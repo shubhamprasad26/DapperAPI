@@ -16,7 +16,7 @@ namespace DapperAPI.Service
             _configuration = configuration;
             _connectionString = _configuration.GetConnectionString("SqlConnection");
         }
-
+        //Create connection.
         public IDbConnection CreateConnection => new SqlConnection(_connectionString);
 
     }
