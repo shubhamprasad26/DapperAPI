@@ -1,0 +1,14 @@
+C:\Users\anmol\source\repos\DapperAPI\DapperAPI\bin\Release\net5.0\publish\DapperAPI.exe
+C:\Users\anmol\source\repos\DapperAPI\DapperAPI\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\anmol\source\repos\DapperAPI\DapperAPI\bin\Release\net5.0\publish\appsettings.json
+C:\Users\anmol\source\repos\DapperAPI\DapperAPI\bin\Release\net5.0\publish\DapperAPI.dll
+C:\Users\anmol\source\repos\DapperAPI\DapperAPI\bin\Release\net5.0\publish\DapperAPI.deps.json
+C:\Users\anmol\source\repos\DapperAPI\DapperAPI\bin\Release\net5.0\publish\DapperAPI.runtimeconfig.json
+C:\Users\anmol\source\repos\DapperAPI\DapperAPI\bin\Release\net5.0\publish\DapperAPI.pdb
+C:\Users\anmol\source\repos\DapperAPI\DapperAPI\bin\Release\net5.0\publish\Dapper.dll
+C:\Users\anmol\source\repos\DapperAPI\DapperAPI\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\anmol\source\repos\DapperAPI\DapperAPI\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anmol\source\repos\DapperAPI\DapperAPI\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anmol\source\repos\DapperAPI\DapperAPI\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anmol\source\repos\DapperAPI\DapperAPI\bin\Release\net5.0\publish\System.Data.SqlClient.dll
+C:\Users\anmol\source\repos\DapperAPI\DapperAPI\bin\Release\net5.0\publish\sni.dll
