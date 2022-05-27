@@ -8,7 +8,7 @@ namespace DapperAPI.Service
 {
     public class DapperContext
     {
-        private readonly IConfiguration _configuration;
+        private readonly IConfiguration _configuration;  
         private readonly string _connectionString;
 
         public DapperContext(IConfiguration configuration)
